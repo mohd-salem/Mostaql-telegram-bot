@@ -25,4 +25,4 @@ jobs[0].click()
 description = driver.find_element(By.CLASS_NAME, "carda__content").text
 budget = driver.find_element(By.XPATH, '//*[@id="project-meta-panel"]/div[1]/table/tbody/tr[3]/td[2]/span').text
 allinf = [title,link,description,budget]
-
+driver.quite()
