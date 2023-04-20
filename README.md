@@ -9,9 +9,9 @@ Mostaql Job Finder Telegram Bot is a simple bot that helps job seekers to get jo
 - uplaoded to Linux server
 
 <h2>Prerequisites</h2>
-- Python 3.9
-- Telegram API token
-- webdriver
+- Python 3.9 <br>
+- Telegram API token <br>
+- webdriver <br>
 
 
 
